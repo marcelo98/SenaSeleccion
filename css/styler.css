@@ -1,0 +1,26 @@
+
+.row{
+	margin-bottom: 20px;  
+}
+
+.columna{
+	border: 1px solid #333; 
+}
+
+.fila-a > .columna{
+	background-color: #fc0;  
+}
+
+.fila-b > .columna{
+	background-color: #ff8000;  
+}
+
+.fila-c > .columna{
+	color: #fc0;
+	border-color: #8080ff; 
+	background-color: #400080; 
+}
+
+.fila-d > .columna{
+	background-color: #aaa;  
+}

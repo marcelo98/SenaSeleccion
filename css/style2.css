@@ -1,0 +1,31 @@
+.container {
+background-color: #00CCCC; 
+}
+
+.full-width{
+	width: 100%
+	color: #ffffff; 
+	background-color: #400080;
+	padding: 20px; 
+}
+
+.full-width-extra{
+	font-family: cursive;
+	font-size: 23px; 
+	color: #000;
+	background-color: #fc0; 
+
+}
+
+p{
+	color: #fff;
+	font-family: arial; 
+}
+ h1 {
+ 	color: #0000CD; 
+
+ }
+
+ .hola {
+ 	background-color: #1E90FF; 
+ }

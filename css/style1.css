@@ -1,0 +1,18 @@
+.container { 
+border: 5px solid #666; 
+background-color: #3CB371; 
+text-align: center;
+}
+
+.subcolumnas {
+	border: 1px solid #aaa; 
+	background-color: #1E90FF; 
+}
+
+address {
+	border :10px solid #0000CD;
+	background-color: #DC143C; 
+}
+div{
+	background-color: #000; 
+}
